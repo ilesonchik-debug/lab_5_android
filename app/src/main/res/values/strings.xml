@@ -1,3 +1,21 @@
 <resources>
-    <string name="app_name">lab5</string>
+    <string name="app_name">Flight Search</string>
+    <string name="app_title">поиск авиарейсов</string>
+
+    <string name="departure_title">аэропорт отправления</string>
+    <string name="departure_hint">введите название или IATA-код</string>
+
+    <string name="flights_title">доступные направления</string>
+    <string name="empty_flights">выберите аэропорт, чтобы увидеть доступные направления</string>
+
+    <string name="favorites_title">избранные рейсы</string>
+    <string name="empty_favorites">у вас пока нет избранных рейсов</string>
+
+    <string name="favorite_add">добавить в избранное</string>
+    <string name="favorite_remove">удалить из избранного</string>
+
+    <string name="search_error">не удалось выполнить поиск</string>
+    <string name="no_airports_found">аэропорты не найдены</string>
+
+    <string name="no_flights">для выбранного аэропорта направления не найдены</string>
 </resources>
